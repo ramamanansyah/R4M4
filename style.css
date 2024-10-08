@@ -55,7 +55,7 @@ header ul li a:hover {
 
 .banner {
     height: 70vh;
-    background-image: src="capybara.jpg";
+    background-image: url="capybara.jpg";
     background-size: cover;
     background-position: 0 auto;
     background-repeat: no-repeat;
